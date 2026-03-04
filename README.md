@@ -13,4 +13,4 @@ Contact form
 HTML5 - Structure
 CSS3 - Styling
 JavaScript - Functionality
-🚀 How to view You can view the live version of this project here:https://dagne55.github.io/project/index.html
+🚀 How to view You can view the live version of this project here:https://dagne55.github.io/project-git/project/index.html
